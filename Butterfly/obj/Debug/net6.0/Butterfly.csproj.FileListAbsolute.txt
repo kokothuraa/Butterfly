@@ -1,0 +1,119 @@
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.AssemblyInfoInputs.cache
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.AssemblyInfo.cs
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.csproj.CoreCompileInputs.cache
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\appsettings.json
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Butterfly.exe
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Butterfly.deps.json
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Butterfly.runtimeconfig.json
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Butterfly.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\ref\Butterfly.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Butterfly.pdb
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Humanizer.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\scopedcss\bundle\Butterfly.styles.css
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.csproj.CopyComplete
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\ref\Butterfly.dll
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.pdb
+D:\GitHub\WebAPI\IOSP_API - Copy\IOSP_API\obj\Debug\net6.0\Butterfly.genruntimeconfig.cache
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\appsettings.json
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Butterfly.exe
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Butterfly.deps.json
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Butterfly.runtimeconfig.json
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Butterfly.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\ref\Butterfly.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Butterfly.pdb
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Humanizer.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.AssemblyInfoInputs.cache
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.AssemblyInfo.cs
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.csproj.CoreCompileInputs.cache
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\scopedcss\bundle\Butterfly.styles.css
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.csproj.CopyComplete
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\ref\Butterfly.dll
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.pdb
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.genruntimeconfig.cache
+D:\GitHub\WebAPI\Butterfly\Butterfly\obj\Debug\net6.0\Butterfly.csproj.AssemblyReference.cache

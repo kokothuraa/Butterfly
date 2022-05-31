@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G4LNZajXjdC/hsr3AVy6GZLXRIXPHHgs3nMbedULnfk=",
+  "Source": "IOSP_API",
+  "BasePath": "_content/IOSP_API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
